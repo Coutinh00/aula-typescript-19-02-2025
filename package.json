@@ -1,31 +1,18 @@
 {
   "name": "aula-typescript-19-02-2025",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Coutinh00/aula-typescript-19-02-2025.git",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
-    "start": "node dist/index.js"
-    
+    "start": "node dist/index.js",
+    "dev": "tsc --watch"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Coutinh00/aula-typescript-19-02-2025/issues"
-  },
-  "homepage": "https://github.com/Coutinh00/aula-typescript-19-02-2025#readme",
   "devDependencies": {
     "typescript": "^5.8.2"
-  },
-  "description": ""
-
-
-
+  }
 }
-
-  
