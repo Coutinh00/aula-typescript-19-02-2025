@@ -16,8 +16,8 @@
     "url": "https://github.com/Coutinh00/aula-typescript-19-02-2025/issues"
   },
   "homepage": "https://github.com/Coutinh00/aula-typescript-19-02-2025#readme",
-  "description": "",
   "devDependencies": {
     "typescript": "^5.8.2"
-  }
+  },
+  "description": ""
 }
